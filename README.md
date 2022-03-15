@@ -4,7 +4,6 @@ Seja bem vindo(a) à sexta Semana Javascript Expert. Este é o código inicial p
 
 Marque esse projeto com uma estrela 🌟
 
-Acesse a [**comunidade exclusiva no discord**](https://bit.ly/semanajsexpert-discord) para tirar suas dúvidas e conhecer pessoas: 
 ## Preview
 
 <img src="./prints/demo.png" />
@@ -13,11 +12,11 @@ Acesse a [**comunidade exclusiva no discord**](https://bit.ly/semanajsexpert-dis
 
 - Web API
     - [ ] Deve atingir 100% de cobertura de código em testes
-    - [ ] Deve ter testes end to end validando todas as rotas da API
+    - [ ] Deve ter testes de integração validando todas as rotas da API
     - [ ] Deve entregar arquivos estáticos como Node.js Stream
     - [ ] Deve entregar arquivos de música como Node.js Stream
     - [ ] Dado um usuário desconectado, não deve quebrar a API
-    - [ ] Mesmo que vários comandos sejam disparados ao mesmo tempo, não deve quebrar a API
+    - [ ] Mesmo que vários comandos sejam desparados ao mesmo tempo, não deve quebrar a API
     - [ ] Caso aconteça um erro inesperado, a API deve continuar funcionando
     - [ ] O projeto precisa ser executado em ambientes Linux, Mac e Windows
 
@@ -44,7 +43,7 @@ Acesse a [**comunidade exclusiva no discord**](https://bit.ly/semanajsexpert-dis
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no [**Discord**](https://bit.ly/semanajsexpert-discord)
+- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
 
 ### Créditos aos áudios usados
 

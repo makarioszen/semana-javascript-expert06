@@ -1,0 +1,7 @@
+Server
+    Service = business rules and processing
+    Controller = Proxy betwen layer apresentation and layer business
+    Routes = Layer apresentation
+    Server = Create server application, but dont generate instance
+    Index = Generate instance server and open port to infra
+    Config = static text of project
